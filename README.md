@@ -1,5 +1,5 @@
 
-# Nigeria Road Traffic Accident Analysis (2021â€“2024)
+# Nigeria Road Traffic Accident Analysis (2021 - 2024)
 
 ## Overview
 
@@ -9,7 +9,7 @@ Built with data visualization best practices, the dashboard uses a **red theme**
 
 ## Project Aim
 
-The aim of the project is to analyze, visualize, and derive actionable insights from Nigeriaâ€™s road traffic accident data to inform safety interventions and policy decisions.
+The aim of the project is to analyze, visualize, and derive actionable insights from Nigeria Road Traffic Accident data to inform safety interventions and policy decisions.
 
 ## Objectives
 
